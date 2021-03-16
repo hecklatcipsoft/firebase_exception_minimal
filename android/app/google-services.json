@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "973213285695",
+    "project_id": "tibiaapp-development",
+    "storage_bucket": "tibiaapp-development.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973213285695:android:870dbb0c995ef9e319e78a",
+        "android_client_info": {
+          "package_name": "com.cipsoft.tibiaapp_development"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973213285695-nt5cesfdcnf9c9jlugq1psffiga4tc60.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWSaNEYls65h0CDt2YlwuXJ-xMj7HKTt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973213285695-nt5cesfdcnf9c9jlugq1psffiga4tc60.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
